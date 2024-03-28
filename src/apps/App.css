@@ -7,10 +7,11 @@
   background-color: #ebebeb; border-radius: 20px;
 }
 
-input {
-  padding: 5px; margin: 10px;
+input, button {
+  padding: 5px; margin: 5px;
 }
 
-button {
-  padding: 5px; margin: 10px;
+td {
+  padding: 5px;
+  
 }
